@@ -74,10 +74,6 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Team-Murro&theme=midnight-purple&hide_border=true&background=0d0d1a" />
-
-<br/>
-
 ![Python](https://img.shields.io/badge/Python-주언어-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-프론트엔드-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![AI_Running](https://img.shields.io/badge/AI_시스템-24시간_자동사냥중-a78bfa?style=for-the-badge&logo=OpenAI&logoColor=white)
