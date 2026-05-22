@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=saroo815&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C3%97%20ML%20%C3%97%20Automation%20%E2%80%94%20%EC%9E%90%EB%8F%99%EC%82%AC%EB%83%A5%EC%9D%84%20%EC%B6%94%EA%B5%AC%ED%95%9C%EB%8B%A4&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Team-Murro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C3%97%20ML%20%C3%97%20Automation%20%E2%80%94%20%EC%9E%90%EB%8F%99%EC%82%AC%EB%83%A5%EC%9D%84%20%EC%B6%94%EA%B5%AC%ED%95%9C%EB%8B%A4&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 <br/>
 
