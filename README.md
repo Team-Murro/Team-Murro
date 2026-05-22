@@ -74,16 +74,16 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saroo815&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saroo815&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Team-Murro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Team-Murro&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saroo815&theme=midnight-purple&hide_border=true&background=0d0d1a" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Team-Murro&theme=midnight-purple&hide_border=true&background=0d0d1a" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=saroo815&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Team-Murro&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
